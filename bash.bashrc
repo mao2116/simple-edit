@@ -4,17 +4,17 @@ echo
 echo "
    < ━━━━━━━━━ [★] T E R M U X [★] ━━━━━━━━━━━━ >  " |lolcat
 echo
-echo "       
-       mao1 " |lolcat
+    echo "  Welcome To My CyBer World##!!" |lolcat
 
-
-figlet  -f slant '    Mao' |lolcat
+echo ' THBD '
+figlet  -f slant '    THBD' |lolcat
 
 echo "
              "FIND YOUR OWN PATH"
 
         "F🖕ck Your Attitude😏😎😏,,!#"
-   < ━━━━━━━━━━━ [★].mao2.[★] ━━━━━━━━━━━━ > " |lolcat
+   < ━━━━━━━━━━━ [★].THBD.[★] ━━━━━━━━━━━━ > " |lolcat
+
 
 python /data/data/com.termux/files/usr/etc/wlc.py
 if [ -x /data/data/com.termux/files/usr/libexec/termux/command-not-found ]; then
