@@ -9,11 +9,11 @@ echo
 
 figlet  -f slant '    Mao' |lolcat
 
-echo "
-             'mao2'
+echo 
+             ' mao2'
 
         "F🖕ck Your Attitude😏😎😏,,!#"
-   < ━━━━━━━━━━━ [★].Mao.[★] ━━━━━━━━━━━━ > " |lolcat
+   "< ━━━━━━━━━━━ [★].Mao.[★] ━━━━━━━━━━━━ > " |lolcat
 
 
 python /data/data/com.termux/files/usr/etc/wlc.py
