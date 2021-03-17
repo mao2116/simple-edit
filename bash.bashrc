@@ -4,7 +4,7 @@ echo
 echo "
    < ━━━━━━━━━ [★] T E R M U X [★] ━━━━━━━━━━━━ >  " |lolcat
 echo
-    echo   mao1 |lolcat
+    '   mao1' |lolcat
 
 
 figlet  -f slant '    Mao' |lolcat
