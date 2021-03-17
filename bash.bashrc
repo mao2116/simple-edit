@@ -9,12 +9,11 @@ echo
 
 figlet  -f slant '    Mao' |lolcat
 
-echo 
-             ' mao2'
+echo "
+             "FIND YOUR OWN PATH"
 
         "F🖕ck Your Attitude😏😎😏,,!#"
-   "< ━━━━━━━━━━━ [★].Mao.[★] ━━━━━━━━━━━━ > " |lolcat
-
+   < ━━━━━━━━━━━ [★].E.H2116.[★] ━━━━━━━━━━━━ > " |lolcat
 
 python /data/data/com.termux/files/usr/etc/wlc.py
 if [ -x /data/data/com.termux/files/usr/libexec/termux/command-not-found ]; then
