@@ -3,8 +3,8 @@ clear
 echo
 echo "
    < ━━━━━━━━━ [★] T E R M U X [★] ━━━━━━━━━━━━ >  " |lolcat
-echo
-    '   mao1' |lolcat
+echo"
+    '   mao1' " |lolcat
 
 
 figlet  -f slant '    Mao' |lolcat
