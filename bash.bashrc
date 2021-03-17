@@ -4,13 +4,13 @@ echo
 echo "
    < ━━━━━━━━━ [★] T E R M U X [★] ━━━━━━━━━━━━ >  " |lolcat
 echo
-    echo "  Welcome To My CyBer World##!!" |lolcat
+    echo '  mao1' |lolcat
 
 
 figlet  -f slant '    Mao' |lolcat
 
 echo "
-             "FIND YOUR OWN PATH"
+             'mao2'
 
         "F🖕ck Your Attitude😏😎😏,,!#"
    < ━━━━━━━━━━━ [★].Mao.[★] ━━━━━━━━━━━━ > " |lolcat
