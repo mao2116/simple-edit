@@ -13,7 +13,7 @@ echo "
              "FIND YOUR OWN PATH"
 
         "F🖕ck Your Attitude😏😎😏,,!#"
-   < ━━━━━━━━━━━ [★].E.H2116.[★] ━━━━━━━━━━━━ > " |lolcat
+   < ━━━━━━━━━━━ [★].THBD.[★] ━━━━━━━━━━━━ > " |lolcat
 
 
 python /data/data/com.termux/files/usr/etc/wlc.py
