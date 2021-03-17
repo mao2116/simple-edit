@@ -7,7 +7,7 @@ echo
     echo "  Welcome To My CyBer World##!!" |lolcat
 
 
-figlet  -f slant '    E.H.2116' |lolcat
+figlet  -f slant '    Mao' |lolcat
 
 echo "
              "FIND YOUR OWN PATH"
