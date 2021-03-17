@@ -5,9 +5,7 @@ echo "
    < ━━━━━━━━━ [★] T E R M U X [★] ━━━━━━━━━━━━ >  " |lolcat
 echo
     echo "  Welcome To My CyBer World##!!" |lolcat
-
-echo 
-    'THBD1' 
+ 
 figlet  -f slant '    THBD' |lolcat
 
 echo "
