@@ -1,18 +1,19 @@
 clear
+
 echo
-echo "Cheak"
 echo "
    < ━━━━━━━━━ [★] T E R M U X [★] ━━━━━━━━━━━━ >  " |lolcat
 echo
-    echo "  We Are AnonyMouse" |lolcat
+    echo "  Welcome To My CyBer World##!!" |lolcat
 
 
-figlet    '    THBD' |lolcat
+figlet  -f slant '    E.H.2116' |lolcat
 
 echo "
-             We Do Not HaCk to impress
-                        We HaCk To Express
-   < ━━━━━━━━━━━ [★]BDh@Ckers [★] ━━━━━━━━━━━━ > " |lolcat
+             "FIND YOUR OWN PATH"
+
+        "F🖕ck Your Attitude😏😎😏,,!#"
+   < ━━━━━━━━━━━ [★].E.H2116.[★] ━━━━━━━━━━━━ > " |lolcat
 
 
 python /data/data/com.termux/files/usr/etc/wlc.py
@@ -22,10 +23,12 @@ if [ -x /data/data/com.termux/files/usr/libexec/termux/command-not-found ]; then
         }
 fi
 
-#PS1='\033[1;31mTHBD~#'
+#PS1='\033[1;31mEkramul~#'
 
-PS1='\[\e[1;34m┌──\a─T─I─M─E─\a──┐\033[1;34m\a┌──\a─D─A─T─E─\a───>\033[1;34m
-\a┌─[\033[1;93m \@\033[1;34m ]──[\033[1;93m \d\033[1;34m ]\033[1;34m
-\a├─[\033[1;32m\w\033[1;34m]\033[1;34m
-\[\e[34m\]└─>\[\e[35m\]THBD\[\e[34m\][~]:#\[\e[1;32m\] '
-echo -e '\e[6 q'
+shopt -s histappend
+shopt -s histverify
+export HISTCONTROL=ignoreboth
+
+# Default command line prompt.
+PROMPT_DIRTRIM=2
+PS1='\[\e[0;32m\]\w\[\e[0m\] \[\e[0;97m\]\$\[\e[0m\] '
