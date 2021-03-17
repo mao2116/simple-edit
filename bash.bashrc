@@ -6,7 +6,7 @@ echo "
 echo
     echo "  Welcome To My CyBer World##!!" |lolcat
 
-echo ' THBD1 '
+echo ' THBD '
 figlet  -f slant '    THBD' |lolcat
 
 echo "
