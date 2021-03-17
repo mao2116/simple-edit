@@ -1,5 +1,6 @@
 clear
 echo
+echo "Cheak"
 echo "
    < ━━━━━━━━━ [★] T E R M U X [★] ━━━━━━━━━━━━ >  " |lolcat
 echo
